@@ -32,9 +32,9 @@ const CartScreen = () => {
 		dispatch(removeFromCart(id))
 	}
 	const checkoutHandler = () => {
-		navigate('/login?redirect=shipping')
+		navigate('/login?redirect=/shipping')
 	}
-	console.log(JSON.parse(localStorage.getItem('cartItems')))
+
 	return (
 		<Row>
 			<Col md={8}>
