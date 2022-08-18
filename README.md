@@ -6,6 +6,7 @@ The website is fully functional as the client is able to :
 - View the homepage and browse several different products for sale
 - View the details of each product , write a review, and give a rating out of 5
 - Create an account and sign in to make orders
+- Add items to cart and find out the total price
 - choose payment method and pay for order
 - track order
 
